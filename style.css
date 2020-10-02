@@ -1,10 +1,18 @@
+html{
+    scroll-behavior: smooth;
+}
 body
 {
     margin: 0;
     padding: 0;
     font-family: sans-serif;
 }
-
+.links{
+    color: #fff;
+}
+.links:hover{
+    color: #000;
+}
 #header
 {
     height:100vh;
